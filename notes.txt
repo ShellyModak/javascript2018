@@ -1,1 +1,5 @@
 This file will be used for keeping notes
+
+ git config --global user.email "sshawmodak@yahoo.in"
+  git config --global user.name "ShellyModak"
+lives in chandannagar
